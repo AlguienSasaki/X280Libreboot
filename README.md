@@ -1,5 +1,7 @@
 # Already available in the official Libreboot Project.
 
+![First X280 in the world running Libreboot!!! or so I think](https://github.com/AlguienSasaki/X280Libreboot/blob/main/imgs/2026-02-28-00-22-24-552.jpg?raw=true)
+
 Thanks to my contribution in the official libreboot project [Pull request #412](https://codeberg.org/libreboot/lbmk/pulls/412).
 Now you can install it as any other supported libreboot machine:
 
@@ -55,7 +57,7 @@ sudo flashprog -p internal:boardmismatch=force -w bin/x280_vfsp_16mb/seagrub_x28
 ```
 
 ~~And the result should be something like this:~~
-~~![First X280 in the world running Libreboot!!! or so I tought](https://github.com/AlguienSasaki/X280Libreboot/blob/main/imgs/2026-02-28-00-22-24-552.jpg?raw=true)~~
+
 
 ~~This all the progress I made. When it's finished I'll try to pull request it to the lbmk project so you can just get a final image with:~~
 
