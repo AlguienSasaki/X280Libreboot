@@ -2,7 +2,7 @@
 
 ![First X280 in the world running Libreboot!!! or so I think](https://github.com/AlguienSasaki/X280Libreboot/blob/main/imgs/2026-02-28-00-22-24-552.jpg?raw=true)
 
-Thanks to my contribution in the official libreboot project [Pull request #412](https://codeberg.org/libreboot/lbmk/pulls/412).
+Thanks to the contribution made in the official libreboot project [Pull request #412](https://codeberg.org/libreboot/lbmk/pulls/412).
 Now you can install it as any other supported libreboot machine:
 
 ```bash
