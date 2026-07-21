@@ -6,13 +6,13 @@ Thanks to the contribution made in the official libreboot project [Pull request 
 Now you can install it as any other supported libreboot machine:
 
 ```bash
-git clone https://codeberg/libreboot/lbmk
+git clone https://codeberg.org/libreboot/lbmk
 cd lbmk
 export XBMK_THREADS=$(nproc)
 git config --global user.name "John Doe"
 git config --global user.email johndoe@example.com
 ./mk dependencies debian ## Change this line if you're not using debian
-./nk -b coreboot x280_vfsp_16mb
+./mk -b coreboot x280_vfsp_16mb
 ```
 
 ### Forget about all of this.
